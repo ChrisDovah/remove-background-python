@@ -33,7 +33,7 @@ python remove_bg.py
 ## Exemplo 🖼️
 | Imagem Original | Imagem Processada |
 |----------------|-------------------|
-| ![Original](exemplo/image.jpg) | ![Sem Fundo](exemplo/sem_fundo.png) |
+| ![Original](image.jpg) | ![Sem Fundo](sem_fundo.png) |
 
 ## Licença 📄
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar!

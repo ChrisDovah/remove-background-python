@@ -1,8 +1,8 @@
-# Remoção de Fundo de Imagem com Python 🖼️✨
+# Remoção de Fundo de Imagem com Python
 
 Este projeto é um script simples em Python que **remove o fundo de uma imagem** automaticamente, utilizando as bibliotecas `rembg` e `Pillow (PIL)`.
 
-## Funcionalidades 🚀
+## Funcionalidades
 - Remove o fundo de uma imagem `.jpg` ou `.png`
 - Salva a nova imagem com fundo transparente
 - Mantém a qualidade e tamanho original da imagem
@@ -34,8 +34,6 @@ python remove_bg.py
 | Imagem Original | Imagem Processada |
 |----------------|-------------------|
 | ![Original](exemplo/original.jpg) | ![Sem Fundo](exemplo/sem_fundo.png) |
-
-*(Substitua os arquivos em `/exemplo/` com as suas imagens para demonstrar)*
 
 ## Licença 📄
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar!
